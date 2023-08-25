@@ -10,13 +10,13 @@ This will give meaning will insights and insights will lead to recommendations h
 
 ## Link to the Dashboard
 
-<a href="https://public.tableau.com/app/profile/harish.kashaboina/viz/SuperStoreDashboard_16924443395390/" target="_blank" rel="noreferrer">
+<a href="https://public.tableau.com/app/profile/harish.kashaboina/viz/SuperStoreDashboard_16924443395390/Dashboard1" target="_blank" rel="noreferrer">
   Super Store Dashboard
 </a>
 
 ##  Super Store Dashboard
 
-<img src="https://drive.google.com/file/d/1tM3wcPzLccDR_klag9fEYvbEdYmU67nv/view" alt="Store Dashboard"/>
+<img src="./superstoredashboard.png" alt="Store Dashboard"/>
 
 ## Data preview 
 Dataset contains 21 columns and are like - 
