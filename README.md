@@ -10,7 +10,7 @@ This will give meaning will insights and insights will lead to recommendations h
 
 ## Link to the Dashboard
 
-[Super Store Dashboard](https://public.tableau.com/app/profile/harish.kashaboina/viz/SuperStoreDashboard_16924443395390/Dashboard1) {:target="_blank" rel="noopener noreferrer"}
+[Super Store Dashboard](https://public.tableau.com/app/profile/harish.kashaboina/viz/SuperStoreDashboard_16924443395390/Dashboard1{:target="_blank" rel="noopener noreferrer"}
 
 ##  Super Store Dashboard
 
