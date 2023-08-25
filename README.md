@@ -10,7 +10,7 @@ This will give meaning will insights and insights will lead to recommendations h
 
 ## Link to the Dashboard
 
-<a href="https://public.tableau.com/app/profile/harish.kashaboina/viz/SuperStoreDashboard_16924443395390/Dashboard1" target="_blank" rel="noreferrer">
+<a href="https://public.tableau.com/app/profile/harish.kashaboina/viz/SuperStoreDashboard_16924443395390/Dashboard1" target="_blank" rel="noopener noreferrer">
   Super Store Dashboard
 </a>
 
@@ -64,6 +64,6 @@ Tableau : For visualization of data,interactivity and seamless experience that c
 
 ## Link to the Tableau Profile
 
-<a href="https://public.tableau.com/app/profile/harish.kashaboina" target="_blank" rel="noreferrer">
+<a href="https://public.tableau.com/app/profile/harish.kashaboina" target="_blank" rel="noopener noreferrer">
  My Tableau Profile
 </a>
