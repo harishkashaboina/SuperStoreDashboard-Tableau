@@ -63,4 +63,7 @@ Tableau : For visualization of data,interactivity and seamless experience that c
 
 
 ## Link to the Tableau Profile
-[My Tableau Profiles](https://public.tableau.com/app/profile/harish.kashaboina)
+
+<a href="https://public.tableau.com/app/profile/harish.kashaboina" target="_blank" rel="noreferrer">
+ My Tableau Profile
+</a>
