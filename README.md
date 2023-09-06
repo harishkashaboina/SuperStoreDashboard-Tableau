@@ -53,13 +53,25 @@ The dataset contains 21 columns and is like -
 5. Low sales and High customers 
 6. No. of Orders by category and sub-categories 
 
+## Insights
 
+1. Total Sales Revenue is $2.297M
+2. Total Profit is $286.40K 
+3. Profit Margin is 12.74%
+4. Total Number of the order is 5.01K
+5. Total Number of customers is 793
+6. Most of the Sales(31.58%) and Profit(37.86%) from West region
+7. Phones, Chairs, and Storage These are the top 3 sub categories by sales, the bottom 3 are Envelopes, Labels Fasteners 
+8. In Category Furniture, Subcategory chairs contributed the highest sales (44.27%) 
+9. In Category Office Supplies, Subcategory storage contributed the highest sales (31.13%)
+10. In Category Technology, Subcategory phones contributed the highest sales (39.47%)
+11. Comparing Sales and Profit trends in 2019 and 2023 it increased.
 
 ## Tools and Language : 
 
-Jupyter Notebook (Python): Used for basic understanding like structure of data (row and columns), checking null values, handling missing values, etc.
+Jupyter Notebook (Python): Used for basic understanding like the structure of data (rows and columns), checking null values, handling missing values, etc.
 
-Tableau : For visualization of data,interactivity and seamless experience that comes with the dashboard. 
+Tableau: For visualization of data, interactivity, and seamless experience that comes with the dashboard. 
 
 
 ## Link to the Tableau Profile
